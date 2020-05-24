@@ -146,7 +146,7 @@ public class ServerUI extends JFrame{
             @Override
             public void windowClosed(WindowEvent e) {
 
-            }
+            }//asdf
 
             @Override
             public void windowIconified(WindowEvent e) {
