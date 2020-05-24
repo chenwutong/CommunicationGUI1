@@ -19,7 +19,7 @@ import javax.swing.*;
 
 public class MyServer extends JFrame{
     /**
-     *
+     *啊手动阀
      */
     private static final long serialVersionUID = 1L;
 
