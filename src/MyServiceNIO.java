@@ -22,7 +22,7 @@ public class MyServiceNIO {
             if (select.select(600) == 0) {//阻塞
                 System.out.println("独自等待.");
                 continue;
-            }
+            }//asdf
             select.select();
             Set<SelectionKey> readkeys = select.selectedKeys();//获取客户端返回的set of keys
 
